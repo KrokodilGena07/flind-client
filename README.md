@@ -4,3 +4,5 @@
 
 ## Stack:
 * ### React, TS
+* ### Zustand
+* ### Module Architecture
